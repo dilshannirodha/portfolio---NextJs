@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Blog App",
+    "description": "A fullstack M E A N  blog app with JWT auth.",
+    "link": "https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git"
+  },
+  {
+    "title": "Memory Testing App - Final Year Project",
+    "description": "A fullstack project using ReactJs, .NET Web API, python Flask",
+    "link": "https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git"
+  },
+  {
+    "title": "Student Management System",
+    "description": "A fullstack app using AngularJs and Spring Boot",
+    "link": "https://github.com/dilshannirodha/student-mangement-system-angular-springboot.git"
+  },
+  {
+    "title": "Todo App",
+    "description": "A fullstack todo app using ReactJs and .NET web API",
+    "link": "https://github.com/dilshannirodha/Todo-react-dotnet-webapi.git"
+  },
+  {
+    "title": "Student Management ",
+    "description": "Full Stack app using AngularJs and .NET Web API",
+    "link": "https://github.com/dilshannirodha/Angular-dotnet-web-api-student-management-system.git"
+  },
+  {
+    "title": "POS - Spring Boot",
+    "description": "POS system using angular and Spring Boot",
+    "link": "https://github.com/dilshannirodha/pos-springboot.git"
+  },
+  {
+    "title": "Typing Game Application",
+    "description": "Typing Test and Game web application using React and .Net web API",
+    "link": "https://github.com/dilshannirodha/React-Typing-App.git"
+  },
+  {
+    "title": "mobile Todo app",
+    "description": "Flutter todo mobile app",
+    "link": "https://github.com/dilshannirodha/To-do-flutter.git"
+  },
+  {
+    "title": "Login System - flutter",
+    "description": "Flutter login system integrated with firebase",
+    "link": "https://github.com/dilshannirodha/loginApp-flutter-firebase.git"
+  }
+
+]

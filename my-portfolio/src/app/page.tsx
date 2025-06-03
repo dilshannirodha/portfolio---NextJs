@@ -15,7 +15,7 @@ export default function Home() {
           <p className="text-green-400 text-lg mb-4 font-light">Hello Everyone.</p>
           
           <h1 className="text-6xl font-bold mb-8 leading-tight">
-            I'M Dilshan<br />
+            I&apos;M Dilshan<br />
             Nirodha
           </h1>
           

@@ -1,4 +1,3 @@
-import { Download } from 'lucide-react';
 
 export default function AboutPage() {
   return (
@@ -42,7 +41,7 @@ export default function AboutPage() {
             {/* Description */}
             <div className="space-y-6">
               <p className="text-gray-300 text-lg leading-relaxed">
-                I'm a passionate <span className="text-green-400 font-semibold">fullstack developer</span> with 
+                I&apos;m a passionate <span className="text-green-400 font-semibold">fullstack developer</span> with 
                 experience in modern frontend and backend technologies. 
                 <div className="flex flex-wrap gap-3 mb-8">
                     
@@ -61,7 +60,7 @@ export default function AboutPage() {
               </p>
               
               <p className="text-gray-300 text-lg leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source 
+                When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source 
                 projects, or sharing my knowledge with the developer community.
               </p>
             </div>

@@ -1,7 +1,9 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
+const nextConfig = {
+  output: 'export',
+   images: {
+    unoptimized: true, // disable next/image optimization
+  },
+  basePath: '/portfolio---NextJs',
+  assetPrefix: '/portfolio---NextJs/',
 };
-
-export default nextConfig;
+module.exports = nextConfig;

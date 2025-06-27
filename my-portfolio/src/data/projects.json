@@ -1,48 +1,76 @@
 [
   {
-    "title": "Blog App",
-    "description": "A fullstack M E A N  blog app with JWT auth.",
-    "link": "https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git"
+    "title": "Learning Managerment System - .NET Web API, Angular ",
+    "description": "Learning Management System - Admin panel, student panel, Teacher panel ",
+    "link": "https://github.com/dilshannirodha/lms-angular-dotnet.git"
   },
   {
-    "title": "Memory Testing App - Final Year Project",
-    "description": "A fullstack project using ReactJs, .NET Web API, python Flask",
+    "title": "Memory Testing App - Final Year Project - React, .NET Web API, Flask API",
+    "description": "User Memory and understanding using ",
     "link": "https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git"
   },
   {
-    "title": "Student Management System",
-    "description": "A fullstack app using AngularJs and Spring Boot",
+    "title": "Sri Lankan Coin Detection - Flask API, YOLO, React",
+    "description": "Sri Lankan Coin Detection and Counting using flask api, YOLO model training on dataset, React for frontend",
+    "link": "https://github.com/dilshannirodha/sri-lankan-coin-detection-opencv-yolo.git"
+  },
+  {
+    "title": "Typing Game Application - React and .Net web API",
+    "description": "Typing Test and Game web application using ",
+    "link": "https://github.com/dilshannirodha/React-Typing-App.git"
+  },
+  {
+    "title": "Task Manager - Laravel and Angular",
+    "description": "Task Manager -Implemented login, register and crud operations",
+    "link": "https://github.com/dilshannirodha/Task-Manager-Laravel-Angular.git"
+  },
+  {
+    "title": "Memo Approval System - M E R N stack",
+    "description": "Memo Approval System - Multiple role base Dashboards, creating , signining memos ",
+    "link": "https://github.com/dilshannirodha/memo-approval-system-MERN.git"
+  },
+  {
+    "title": "Blog App - M E A N stack",
+    "description": "create post , like , comment, reply with secure login",
+    "link": "https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git"
+  },
+  
+  {
+    "title": "Student Management - Angular and Spring Boot",
+    "description": "Imlemented CRUD operations on Student data ",
     "link": "https://github.com/dilshannirodha/student-mangement-system-angular-springboot.git"
   },
+  
   {
-    "title": "Todo App",
-    "description": "A fullstack todo app using ReactJs and .NET web API",
-    "link": "https://github.com/dilshannirodha/Todo-react-dotnet-webapi.git"
-  },
-  {
-    "title": "Student Management ",
-    "description": "Full Stack app using AngularJs and .NET Web API",
+    "title": "Student Management - Angular and .NET Web API ",
+    "description": "Imlemented CRUD operations on Student data ",
     "link": "https://github.com/dilshannirodha/Angular-dotnet-web-api-student-management-system.git"
   },
   {
     "title": "POS - Spring Boot",
-    "description": "POS system using angular and Spring Boot",
+    "description": "POS system imlementation with product, cutomer and order ",
     "link": "https://github.com/dilshannirodha/pos-springboot.git"
   },
   {
-    "title": "Typing Game Application",
-    "description": "Typing Test and Game web application using React and .Net web API",
-    "link": "https://github.com/dilshannirodha/React-Typing-App.git"
+    "title": "Portfolio- nextJs",
+    "description": "Developed a portfolio and deployed it on github pages",
+    "link": "https://github.com/dilshannirodha/portfolio---NextJs.git"
   },
+  
   {
-    "title": "mobile Todo app",
-    "description": "Flutter todo mobile app",
+    "title": "mobile Todo app - Flutter ",
+    "description": "todo mobile app",
     "link": "https://github.com/dilshannirodha/To-do-flutter.git"
   },
   {
     "title": "Login System - flutter",
     "description": "Flutter login system integrated with firebase",
     "link": "https://github.com/dilshannirodha/loginApp-flutter-firebase.git"
+  },
+  {
+    "title": "Car Simulation - Unity",
+    "description": "Car Simulation Game made using Unity engine",
+    "link": "https://github.com/dilshannirodha/unity-car-simulation.git"
   }
 
 ]

@@ -4,19 +4,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/home.png" width="400" alt="Typing Game UI" /><br/>
+      <img src="my-portfolio/screenshots/home.png" width="400" alt="Typing Game UI" /><br/>
       <b>Typing Game UI</b>
     </td>
     <td align="center">
-      <img src="screenshots/about.png" width="400" alt="Typing Test UI" /><br/>
+      <img src="my-portfolio/screenshots/about.png" width="400" alt="Typing Test UI" /><br/>
       <b>Typing Test UI</b>
     </td>
      <td align="center">
-      <img src="screenshots/projects.png" width="400" alt="Typing Test UI" /><br/>
+      <img src="my-portfolio/screenshots/projects.png" width="400" alt="Typing Test UI" /><br/>
       <b>Typing Test UI</b>
     </td>
      <td align="center">
-      <img src="screenshots/contacts.png" width="400" alt="Typing Test UI" /><br/>
+      <img src="my-portfolio/screenshots/contacts.png" width="400" alt="Typing Test UI" /><br/>
       <b>Typing Test UI</b>
     </td>
   </tr>
